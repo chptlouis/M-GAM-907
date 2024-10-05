@@ -14,5 +14,5 @@ You can also play directly in the editor if you don't want to do a full build.
 Z, Q, S, D for movement
 R to respawn at the last checkpoint (golden statues in level 1).
 
-![screenshot](docs\images\lvl1.png)
-![screenshot](docs\images\lvl2.png)
+![screenshot](docs/images/lvl1.png)
+![screenshot](docs/images/lvl2.png)
